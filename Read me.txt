@@ -1,0 +1,6 @@
+This nitro generator can be used with or without proxies (proxies are safer)
+
+Steps :
+-Open cmd in the folder
+-in cmd type "pip install requirements.txt"
+-open main.py
